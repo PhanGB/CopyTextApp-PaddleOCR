@@ -1,0 +1,6 @@
+Pillow>=10.0.0
+pyperclip>=1.8.2
+paddleocr>=2.7.0
+paddlepaddle>=2.5.0
+easyocr>=1.7.0
+
