@@ -1,0 +1,1 @@
+# CopyTextApp-PaddleOCR
